@@ -1,0 +1,95 @@
+.g{
+  color: #a3aeff;
+  font-size: 75px;
+
+}
+.h{
+  color: #a3aeff;
+  font-size: 75px;
+
+}
+.j{
+  color: #a3aeff;
+  font-size: 75px;
+
+}
+
+
+.g:hover {
+  color: #b1e9ff;
+}
+
+.h:hover {
+  color: #b1e9ff;
+}
+.j:hover {
+  color: #b1e9ff;
+}
+div{
+background-color: #f8ffd4;
+
+}
+.q:hover {
+  border: 10px solid black;
+}
+.w:hover {
+  border: 10px solid black;
+}
+.e:hover {
+  border: 10px solid black;
+}
+.q {
+width: 300px;
+}
+.w {
+  width: 300px;
+}
+.e {
+  width: 300px;
+}
+h1 {
+  font-size: 85px;
+}
+.buttonone {
+  width: 500px;
+  height: 50px;
+  color: #ffa291;
+
+}
+.buttontwo {
+  width: 500px;
+  height: 50px;
+  color: #ffa291;
+}
+.buttonthree {
+  width: 500px;
+  height: 50px;
+  color: #ffa291;
+
+}
+.r:hover {
+  background-color: #f3d8ff;
+}
+.t:hover {
+  background-color: #f3d8ff;
+}
+.y:hover {
+  background-color: #f3d8ff;
+}
+h1:hover {
+  color: #f4cfff;
+}
+@media screen and (max-width:900px) {
+  h1{
+    font-size: 55px;
+  }
+  .g{
+    font-size: 45px;
+  }
+  .h {
+    font-size: 45px;
+  }
+  .j {
+    font-size: 45px;
+  }
+}
